@@ -41,6 +41,7 @@ const Footer = () => {
 
         {isEnabled && <GithubButtons />}
       </Container>
+      Created by Valentina
     </footer>
   );
 };

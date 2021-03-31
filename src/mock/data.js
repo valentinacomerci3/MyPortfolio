@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Todo App',
     info: ' A simple Todo-list built with React. ',
     info2: '',
-    url: '',
+    url: 'https://valestodolist.herokuapp.com/',
     repo: 'https://github.com/valentinacomerci3/TodoList', // if no repo, the button will not show up
   },
   {
